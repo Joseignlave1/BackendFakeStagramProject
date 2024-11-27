@@ -1,4 +1,6 @@
-# Fake Instagram
+# ESTA ES SOLO UNA COPIA PERSONAL DEBIDO A QUE SUBI UN ENDPOINT PODER SELECCIONAR UNA IMAGEN DESDE LOS ARCHIVOS CUANDO SE EDITA EL PERFIL, EL REPO ORIGINAL ES ESTE : https://github.com/bruno-argenta/fake_instagram
+
+Fake Instagram
 
 ## Descripción
 
